@@ -1,2 +1,2 @@
-# Practice
+# practice
 Practice using HTML5
